@@ -1,7 +1,7 @@
 # RulerView
 刻度尺控件
 
-使用方法：
+
 Step 1：Add it in your root build.gradle at the end of repositories:
 
 	allprojects {
